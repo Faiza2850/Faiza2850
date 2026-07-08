@@ -5,6 +5,9 @@ Hi 👋, I'm Faiza Fatima
 <h3 align="center">
 Full Stack Developer| AI Researcher | Machine Learning Engineer |NLP | Software Engineer
 </h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Hi+I'm+Faiza+Fatima;AI+Researcher;Machine+Learning+Engineer;Computer+Vision+Enthusiast;Open+to+Research+Collaborations" />
+</p>
+<p align="center">
 
 <p align="center">
 Passionate about developing intelligent systems that solve real-world problems through Artificial Intelligence.
