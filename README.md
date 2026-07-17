@@ -25,6 +25,8 @@ I am a Computer Science graduate from **UET Taxila (2022–2026)** with a strong
 
 ## 📊 Git Metrics & Impact
 
+## 📊 Git Metrics & Impact
+
 <div align="center">
 
 | ⚡ Quick Metrics Impact |
@@ -37,7 +39,14 @@ I am a Computer Science graduate from **UET Taxila (2022–2026)** with a strong
 
 <!-- GitHub Stats Badges Grid -->
 <img src="https://github-readme-stats.vercel.app/api?username=Faiza2850&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faiza2850&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=Faiza2850&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+
+</div>
+
+<br />
+
+<!-- GitHub Stats Badges Grid -->
+<img src="https://github-readme-streak-stats.vercel.app/?user=Faiza2850&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 
 </div>
 
